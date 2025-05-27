@@ -14,7 +14,7 @@
 – Как бих искала да си вече тук. Да бе дошъл преди хиляди години...  
 – Къде си? - затвори синьо очите си тя и отвори писмото.
 
-![alt text](https://github.com/ivo-georgiev/memories/blob/main/tabela.jpg)
+![alt text](https://github.com/kazan4e2/spirkata/blob/main/tabela.png)
 Ян
 ---------
 
