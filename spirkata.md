@@ -185,4 +185,4 @@
 
 Юла не бе намирала новa история на спирката от години ... до днес.
 
-![alt text](https://github.com/ivo-georgiev/memories/blob/main/pk.jpg)
+![alt text]()
