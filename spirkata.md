@@ -1,4 +1,4 @@
-![alt text](https://github.com/ivo-georgiev/memories/blob/main/spirkata.jpg)
+![alt text](https://github.com/kazan4e2/spirkata/blob/main/spirka.png)
 Спирката
 ----------
 В последния ден на февруари Ия поседна край малката изоставена автоспирка в края на селото. 
